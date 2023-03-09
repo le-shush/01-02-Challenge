@@ -1,3 +1,7 @@
+# Jesús Mondragón Ortiz - Challenge 01 - Week 1 
+## NOTES
+The REDME file has been included and only this description has been added in order to comply with the instructions here indicated. For further projects of increasing complexity a specific README file will be created.
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
