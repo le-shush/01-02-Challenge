@@ -2,6 +2,8 @@
 ## NOTES
 The REDME file has been included and only this description has been added in order to comply with the instructions here indicated. For further projects of increasing complexity a specific README file will be created.
 
+[Here you can find the site](https://le-shush.github.io/01-02-Challenge/Develop/index.html)
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
