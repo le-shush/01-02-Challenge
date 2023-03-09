@@ -19,7 +19,7 @@ header {
     color: #ffffff;
 }
 
-/* Changes the way the header is displayed with smaller screens */
+/* Changes the way the header is displayed with smaller screens. This part was refactored from a suggestion by fellow classmate David Mondragon */
 @media screen and (max-width: 992px) {
     .nav-link ul li a {
         display: flex;
